@@ -702,8 +702,6 @@
 .portfolio .portfolio-filters li.filter-active {
   color: var(--accent-color);
 }
-.h2{
-  text-align:center;
 .portfolio .portfolio-filters li:first-child {
   margin-left: 0;
 }
